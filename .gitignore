@@ -1,3 +1,6 @@
+*.pyc
 bin
 lib
 include
+text-based-game-generator.sublime-project
+text-based-game-generator.sublime-workspace
